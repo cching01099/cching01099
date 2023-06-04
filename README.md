@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋 I'm Ching </h1> 
 <h3 align="left">A passionate frontend developer for building eye-catching and intuitive user interfaces! </h3>
-
+<p align="left">also an absolute BAGELS LOVER🥯 hehe... </p>
 
 ![](bagel-bagel-net.gif)
-<h4 align="left">also an absolute BAGELS LOVER🥯 </h4>
+
 
 - 🔭 I’m currently working on my personal projects.
 
