@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer for building eye-catching and intuitive user interfaces! </h3>
 <h3 align="left">also an absolute BAGELS LOVER🥯 </h3>
 
-<div class="tenor-gif-embed" data-postid="15214384" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bagel-bagel-net-magic-gif-15214384">Bagel Bagel Net GIF</a>from <a href="https://tenor.com/search/bagel-gifs">Bagel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![bagel](https://media.tenor.com/zT_Hj69Lzv0AAAAd/bagel-bagel-net.gif)
 
 - 🔭 I’m currently working on my personal projects.
 
