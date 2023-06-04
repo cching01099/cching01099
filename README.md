@@ -1,6 +1,6 @@
-<h1 align="left">Hi there 👋 I'm Ching! </h1> 
-<h3 align="left">A passionate frontend developer for building eye-catching and intuitive user interfaces! </h3>
-<h3 align="left">also an absolute BAGELS LOVER🥯 </h3>
+<h1 align="left">Hi there 👋 I'm Ching </h1> 
+<h3 align="left">A passionate frontend developer for building eye-catching and intuitive user interfaces. </h3>
+<p align="left">also an absolute BAGELS LOVER🥯 </p>
 
 ![](bagel-bagel-net.gif)
 
