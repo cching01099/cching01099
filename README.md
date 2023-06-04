@@ -2,7 +2,6 @@
 <h3 align="left">A passionate frontend developer for building eye-catching and intuitive user interfaces! </h3>
 <h3 align="left">also an absolute BAGELS LOVER🥯 </h3>
 
-![https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif]
 
 
 - 🔭 I’m currently working on my personal projects.
