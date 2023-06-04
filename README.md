@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer for building eye-catching and intuitive user interfaces! </h3>
 <h3 align="left">also an absolute BAGELS LOVER🥯 </h3>
 
-![bagel](https://media.tenor.com/zT_Hj69Lzv0AAAAd/bagel-bagel-net.gif)
+![](bagel-bagel-net.gif)
 
 
 - 🔭 I’m currently working on my personal projects.
