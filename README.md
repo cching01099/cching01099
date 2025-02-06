@@ -12,7 +12,7 @@
 
 - 👩🏻‍💻 All of my projects are available at [my github](https://github.com/cching01099?tab=repositories)
 
-- 📫 Reach me at **cching01099@gmail.com** or check my online [profile site](https://cching01099.github.io/myportfolio/#en)
+- 📫 Reach me at **cching01099@gmail.com** or check my online [profile site](https://cching01099.github.io/myportfolio)
 
 - ✨ Fun fact1 : I had  **swam across Sun Moon Lake** which is the largest freshwater lake in Taiwan🇹🇼
 - ✨ Fun fact2 : I used to have a **side gig** for selling handmade scented candle🕯️
